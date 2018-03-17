@@ -47,4 +47,6 @@
 0.0.0.0 www.facebook.de
 0.0.0.0 www.facebook.fr
 0.0.0.0 zh-cn.facebook.com
-
+0.0.0.0 www.login.facebook.com
+0.0.0.0 edge-star6-shv-02-ams2.facebook.com
+0.0.0.0 *.facebook.com
