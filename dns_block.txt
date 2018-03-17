@@ -10,5 +10,4 @@
 0.0.0.0 players.brightcove.net
 0.0.0.0 service.datamart.windows.com
 0.0.0.0 win10-trt.msedge.net
-0.0.0.0
 
