@@ -50,3 +50,6 @@
 0.0.0.0 www.login.facebook.com
 0.0.0.0 edge-star6-shv-02-ams2.facebook.com
 0.0.0.0 *.facebook.com
+
+::/0 *.facebook.com
+
