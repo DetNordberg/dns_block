@@ -1,0 +1,14 @@
+# dns_block for Raspberry Pi
+
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 activity.windows.com
+0.0.0.0 armmf.adobe.com
+0.0.0.0 bing.com
+0.0.0.0 client-office365-tas.msedge.net
+0.0.0.0 config.edge.skype.com
+0.0.0.0 ocos-office365-s2s.msedge.net
+0.0.0.0 players.brightcove.net
+0.0.0.0 service.datamart.windows.com
+0.0.0.0 win10-trt.msedge.net
+0.0.0.0
+
